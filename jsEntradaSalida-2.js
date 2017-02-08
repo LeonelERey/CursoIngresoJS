@@ -4,8 +4,8 @@ function Mostar()
 {
 	var nombre;
 	nombre = "leonel";
-	alert(nombre)
 	var person = prompt("ingresa tu nombre", "leonel");
+	alert(nombre);
 
 }
 
